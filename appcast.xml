@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Jot</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 19 Nov 2026 13:50:31 -0500</pubDate>
+            <sparkle:version>91</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://dj13990.github.io/jot-updates/Jot-91.zip" length="9854728" type="application/octet-stream" sparkle:edSignature="hEPRK/BKOkK1qgOwl0lBCqOcv4Y6kx9feoNxzIN1ms8adw9dJZ81/VqsIeLC2Amk2wsOHEXUsrEXL+YSC4QCCQ=="/>
+        </item>
+    </channel>
+</rss>
