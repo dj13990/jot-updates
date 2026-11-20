@@ -4,6 +4,18 @@
         <title>Jot</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Fri, 20 Nov 2026 10:44:15 -0500</pubDate>
+            <sparkle:version>94</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://dj13990.github.io/jot-updates/Jot-94.zip" length="10008488" type="application/octet-stream" sparkle:edSignature="no9K9s8OlCY46Qvs8VRO/RwK5YXkblszW+FkkPZTl3kwS61wSQxWUk2tjlo64bWQmlFqnUySZveiULP41DN9DQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://dj13990.github.io/jot-updates/Jot94-93.delta" sparkle:deltaFrom="93" length="1017826" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3kaKEOOdss4o3dOLchPWq3zM7CmV2g9fnhi1l6kGny3xWoeoBpzVxsMTyDos7X0EIIUR/pfoah1dwAnfgvdrBw=="/>
+                <enclosure url="https://dj13990.github.io/jot-updates/Jot94-92.delta" sparkle:deltaFrom="92" length="1463730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sQE/29VxfepqSAXAu13Z+cA/bBKzV+TVfHlArUHuxYEdSbhRDAPBuEpDLdOIuSI6mhgg4XzzBZCK7eZLBiE8Aw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Fri, 20 Nov 2026 10:17:55 -0500</pubDate>
             <sparkle:version>93</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -24,14 +36,6 @@
             <sparkle:deltas>
                 <enclosure url="https://dj13990.github.io/jot-updates/Jot92-91.delta" sparkle:deltaFrom="91" length="723798" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ztqak9OxvSVVJcGjx9ohSJtUxGNNJ19XWNEWwKfWc75jQFjZktaNk5U9cnnbOW2KC/wUZxeg7N7NN36qnvBnDA=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Thu, 19 Nov 2026 13:50:31 -0500</pubDate>
-            <sparkle:version>91</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://dj13990.github.io/jot-updates/Jot-91.zip" length="9854728" type="application/octet-stream" sparkle:edSignature="hEPRK/BKOkK1qgOwl0lBCqOcv4Y6kx9feoNxzIN1ms8adw9dJZ81/VqsIeLC2Amk2wsOHEXUsrEXL+YSC4QCCQ=="/>
         </item>
     </channel>
 </rss>
