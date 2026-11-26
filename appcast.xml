@@ -5,7 +5,6 @@
         <item>
             <title>0.1.0</title>
             <pubDate>Wed, 25 Nov 2026 12:56:40 -0500</pubDate>
-            <sparkle:channel>test</sparkle:channel>
             <sparkle:version>124</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -21,7 +20,6 @@
         <item>
             <title>0.1.0</title>
             <pubDate>Wed, 25 Nov 2026 09:20:32 -0500</pubDate>
-            <sparkle:channel>test</sparkle:channel>
             <sparkle:version>122</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -52,7 +50,6 @@
         <item>
             <title>0.1.0</title>
             <pubDate>Mon, 23 Nov 2026 15:23:26 -0500</pubDate>
-            <sparkle:channel>test</sparkle:channel>
             <sparkle:version>114</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
